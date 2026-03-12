@@ -19,4 +19,4 @@ This project analyzes retail sales data to identify trends in revenue, profit, a
 - Analyzed customer purchase patterns
 ## Dashboard Preview
 
-![Retail Sales Dashboard](superstore-dashboard.png.png)
+![Retail Sales Dashboard](superstore-dashboard.png)
