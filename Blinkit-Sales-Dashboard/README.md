@@ -9,11 +9,10 @@ This project analyzes Blinkit retail sales data to understand product performanc
 
 ## Key Analysis
 - Total sales and average sales
-- Sales by outlet location and outlet size
+- Sales by outlet size
 - Sales by item type
-- Product category performance
+- Outlet location performance
 
-## Insights
-- Identified top selling product categories
-- Compared outlet performance by location
-- Analyzed sales trends across different outlet types
+## Dashboard Preview
+
+![Blinkit Sales Dashboard](blinkit-dashboard.png)
