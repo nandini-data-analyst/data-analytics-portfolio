@@ -17,3 +17,6 @@ This project analyzes retail sales data to identify trends in revenue, profit, a
 - Identified top performing product categories
 - Found regions with highest profit margins
 - Analyzed customer purchase patterns
+## Dashboard Preview
+
+![Retail Sales Dashboard](superstore-dashboard.png.png)
